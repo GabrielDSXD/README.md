@@ -1,4 +1,4 @@
-# Olá, eu sou [Gabriel]! 👋
+# Olá, eu sou Gabriel! 👋
 
 Sou um desenvolvedor apaixonado por tecnologia, com foco em criar soluções eficientes e escaláveis. Adoro navegar entre o desenvolvimento Web moderno e a programação de baixo nível.
 
